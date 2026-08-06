@@ -1544,6 +1544,17 @@
 		]
 	},
 	{
+		"title": "ONUS",
+		"url": "https://github.com/maverickaayush/ONUS",
+		"owner": "Aayush Yadav",
+		"license": "Open Source",
+		"platforms": "Linux, macOS, Windows",
+		"note": "Open-source web application vulnerability scanner with deterministic CVSS scoring, AI-assisted analysis, and plain-English remediation guidance that enables developers without security expertise to understand and fix vulnerabilities.",
+		"type": [
+			"DAST"
+		]
+	},
+	{
 		"title": "OpenApi Security",
 		"url": "https://openapi.security",
 		"owner": "Escape",
