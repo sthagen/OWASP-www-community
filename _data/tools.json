@@ -2710,6 +2710,18 @@
 		]
 	},
 	{
+		"title": "Zennoxa Shield",
+		"url": "https://zennoxa.com",
+		"owner": "Zennoxa",
+		"license": "Open Source or Free",
+		"platforms": "CLI (macOS, Linux, Windows), CI/CD",
+		"note": "Open-source (MIT) developer-first scanner. One offline pass runs SAST, dependency (SCA), secret, container and IaC checks across 24 languages, then ranks findings by whether the vulnerable code is reachable. Emits SARIF and a CycloneDX/SPDX SBOM.",
+		"type": [
+			"SAST",
+			"SCA"
+		]
+	},
+	{
 		"title": "ZeroPath",
 		"url": "https://zeropath.com/",
 		"owner": "ZeroPath",
